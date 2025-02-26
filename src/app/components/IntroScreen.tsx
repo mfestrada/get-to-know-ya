@@ -16,7 +16,7 @@ export default function IntroScreen({ onStart }) {
       />
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center">
         <div className="text-center text-white">
-          <h1 className="text-3xl font-bold mb-4 flex items-center justify-center flex-wrap">Michael and Tania's{' '}
+          <h1 className="text-3xl font-bold mb-4 flex items-center justify-center flex-wrap">Michael and Tania&apos;s{' '}
             <span className="inline-block overflow-hidden whitespace-nowrap w-24 mx-2">
               <span className="animate-marquee inline-block text-pink-500 font-comic-sans">Luvvv</span>
             </span> Quiz</h1>
